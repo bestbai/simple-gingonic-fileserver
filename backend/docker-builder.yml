@@ -1,0 +1,5 @@
+version: "3.5"
+services:
+  gin_fileserver:
+    build: .
+    image: accalina/gin_fileserver:1.0
